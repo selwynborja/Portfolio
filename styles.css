@@ -31,19 +31,19 @@ img {
   --font-size-lg: 41.6px;
 }
 
-:root[data-theme="light"] {
-  --bg: #f7f7f8;
-  --color: #4a4a52;
-  --accent: #111114;
-  --spine: #6b6b74;
-  --border: #dcdce0;
-  --hover: rgba(0, 0, 0, 0.05);
-  --card: #ffffff;
-  --card-hover: #f0f0f2;
-  --icon-bg: #ffffff;
-  --graph: #18181b;
-  color-scheme: light;
-}
+  :root[data-theme="light"] {
+    --bg: #f7f7f8;
+    --color: #4a4a52;
+    --accent: #111114;
+    --spine: #6b6b74;
+    --border: #dcdce0;
+    --hover: rgba(0, 0, 0, 0.05);
+    --card: #ffffff;
+    --card-hover: #f0f0f2;
+    --icon-bg: #ffffff;
+    --graph: #18181b;
+    color-scheme: light;
+  }
   
 
 body {
