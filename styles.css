@@ -505,6 +505,8 @@ main {
   padding: 4px 10px; 
   font-size: 12px; 
   font-family: var(--font-secondary);
+  color: var(--color);
+  font-weight: 500;
 } 
 
 /* certifications section */
