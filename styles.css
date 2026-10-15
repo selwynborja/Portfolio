@@ -18,9 +18,10 @@ img {
   --card-hover: #1c1c20;
   --icon-bg: black;
   --graph: #f2f2f2;
-  --spine: #A0A0A8;
+  --spine: #8A8A92;
   --color: #B8B8C0;
    --accent: #F4F4F5; 
+   
 
   color-scheme: dark;
 
@@ -411,7 +412,7 @@ main {
 
 .expi-container span {
   font-family: 'Geist Pixel';
-  color: var(--color);
+  color: var(--spine);
   font-size: 14px;
 }
 
@@ -486,7 +487,7 @@ main {
 .stack div {
   margin-bottom: 20px;
   font-family: 'Geist Pixel';
-  color: var(--color);
+  color: var(--spine);
   font-size: 12px;
 }
 .gg {
@@ -531,7 +532,7 @@ main {
   margin: 50px auto 0 auto;
   font-family: 'Geist Pixel';
   font-size: 14px;
-  color: var(--color);
+  color: var(--spine);
 }
 
 .certi {
@@ -619,7 +620,7 @@ main {
   margin: 0;
   font-family: 'Geist Pixel';
   font-size: 14px;
-  color: var(--color);
+  color: var(--spine);
 }
 
 .github a {
